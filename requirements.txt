@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+passlib
+PyJWT
+pydantic[email]
+mysqlclient
+python-multipart
+bcrypt
+uvicorn
+requests
